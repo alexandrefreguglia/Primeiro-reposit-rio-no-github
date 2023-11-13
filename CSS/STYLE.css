@@ -1,0 +1,35 @@
+ /*OBRIGATÓRIO ;*/ 
+ #titulo {
+    color:crimson;
+    background:greenyellow;
+    }
+#paragrafo {
+    color:brown;
+    font-size: 25px;
+    }
+#botao {
+        background: red;
+        border-color: gray;
+ }
+ #botao-1 {
+            background: blue;
+            border-color: black;
+ }
+ /*SELETORES*/
+/*h1 {
+        color: black;
+    } ESSE E UM EXEMPLO QUANDO SE TEM SO UM TITULO*/
+   
+    
+    /* * EM CSS SIGNIFICA TUDO (SELECIONA TODO O TITULO EX: * {
+                                                            background: blue;
+                                                            } (seleciona todo o texto)*/
+
+    
+ /* ID = # (HASTEG) ex: no HTML <button id="botao">CLICA AQUI!<button/>
+ <button id= botao-1>CLICA AQUI!<button/> OBS; OS IDS TEM QUE TER NOMES DIFERENTES.*/
+
+ /*CLASS= . (A UM CEP QUE TODOS PODEM USAR TODAS AS CORES VÃO SER IGUAL)
+/*OUTRO EX; .TEXTO, P, BOTAO, BOTAO-1 { 
+                                        COLOR: RED;
+                                        } TODOS TAMBEM VÃO TER AMESMA COR. */
